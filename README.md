@@ -23,7 +23,7 @@ The Weather App is used to tell the temperature , weather and all other details 
 **Installation:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RajatGupta2002/Spare-Parts-Management-System.git
+   git clone https://github.com/RajatGupta2002/Weather-App.git
 2. Install the frontend dependencies
    ```bash
    npm install
